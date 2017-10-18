@@ -1,2 +1,2 @@
 # Catan
-Catan board game
+Catan board game~
